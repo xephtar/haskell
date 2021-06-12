@@ -1,0 +1,4 @@
+ghc -o hello hello.hs
+ghc -o pictures Pictures_completed.hs
+ghc -o main main.hs
+ghc -o homework2 homework2.hs
